@@ -1,0 +1,54 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                  🎨 FABRIC COLOUR VISUALIZER                     ║
+║              GitHub Upload - Quick Start Guide                   ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📁 FILES TO UPLOAD (6 files):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ index.html
+✓ fabric-colour-visualizer.html  
+✓ README.md
+✓ DEPLOYMENT.md
+✓ deploy.sh
+✓ .gitignore
+
+🌐 UPLOAD STEPS (No Terminal Required):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 1: Create Repository
+└─ Go to: https://github.com/new
+└─ Name: fabric-colour-visualizer
+└─ Click: "Create repository"
+
+STEP 2: Upload Files
+└─ Click: "Add file" → "Upload files"
+└─ Drag all 6 files from your folder
+└─ Click: "Commit changes"
+
+STEP 3: Enable GitHub Pages
+└─ Click: "Settings" → "Pages"
+└─ Branch: "main"
+└─ Folder: "/ (root)"
+└─ Click: "Save"
+
+STEP 4: Access Your Site (wait 2 minutes)
+└─ URL: https://YOUR_USERNAME.github.io/fabric-colour-visualizer/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 YOUR FILES ARE IN THIS FOLDER:
+/home/user/workspaces/6993181ee933fbc7edbe7af2/d598b7a8-d481-481b-a9a0-f3255d96c1ff
+
+🎯 WHAT YOUR SITE WILL HAVE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ 25 Professional Fabric Colors
+✓ Photorealistic Bedroom Generator
+✓ AR Camera Mode (Overlay on Live Camera)
+✓ Real-time Color Preview
+✓ Download Images
+✓ Mobile Responsive
+✓ HTTPS Enabled
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Need detailed help? Check UPLOAD_INSTRUCTIONS.md or DEPLOYMENT.md
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
