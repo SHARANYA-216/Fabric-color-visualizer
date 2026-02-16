@@ -14,7 +14,7 @@ A professional AR-powered fabric color visualization tool that lets you preview 
 
 ## 🚀 Live Demo
 
-Visit the live demo: [Your GitHub Pages URL will be here]
+Visit the live demo: [Click here to view the project](https://fabric-colour-visualizer.netlify.app/)
 
 ## 📱 How to Use
 
